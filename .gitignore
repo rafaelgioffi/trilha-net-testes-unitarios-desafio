@@ -396,3 +396,10 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Somente arquivos importantes
+Imagens/
+TestesUnitarios.Desafio.Console/bin/
+TestesUnitarios.Desafio.Console/obj
+TestesUnitarios.Desafio.Tests/bin
+TestesUnitarios.Desafio.Tests/obj
